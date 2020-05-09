@@ -1,2 +1,2 @@
-I am testing my GitHub page to know if it is working. This secod part is to test the pull command. This third sentence is to test the merge conflict of git.
+I am testing my GitHub page to know if it is working. This secod part is to test the pull command. This third sentence is to test the merge conflict of git. Final try!
 
